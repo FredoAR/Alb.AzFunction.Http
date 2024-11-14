@@ -29,14 +29,5 @@ namespace Alb.Function.Infraestructure
 
         }
 
-
-        //public static void ConfigureDbConnection(IServiceCollection services)
-        //{
-        //    services.AddScoped<IDbConnection>(sql => new SqlConnection("{connectionString}"));
-
-        //}
-
-
-
     }
 }
