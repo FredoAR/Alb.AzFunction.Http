@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Alb.Function.Http": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7101",
+      "launchBrowser": false
+    }
+  }
+}
